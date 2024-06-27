@@ -1,7 +1,7 @@
 {
   "name": "@greenhead/common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "79569567c52c9625a8999f951cd429630bd199fd"
+  "gitHead": "66ca09f315f784640189ca823a96a52e983709c4"
 }
