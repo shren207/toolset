@@ -1,6 +1,6 @@
 {
   "name": "@greenhead/react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "sideEffects": false,
   "exports": {
     ".": {
@@ -26,6 +26,7 @@
   },
   "publishConfig": {
     "access": "public",
+    "registry": "https://registry.npmjs.org/",
     "exports": {
       ".": {
         "require": "./dist/index.js",
@@ -58,5 +59,6 @@
   "peerDependencies": {
     "react": "^16.0.0 || ^17.0.0 || ^18",
     "react-dom": "^16.12.0 || ^17.0.0 || ^18"
-  }
+  },
+  "gitHead": "79569567c52c9625a8999f951cd429630bd199fd"
 }

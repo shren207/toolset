@@ -1,7 +1,8 @@
 {
   "name": "@greenhead/rollup-config",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "./src/index.js",
+  "private": true,
   "dependencies": {
     "@babel/core": "^7.19.3",
     "@rollup/plugin-babel": "^5.3.1",
@@ -23,5 +24,6 @@
     "type": "git",
     "url": "https://github.com/greenhead/toolset.git",
     "directory": "configs/rollup"
-  }
+  },
+  "gitHead": "79569567c52c9625a8999f951cd429630bd199fd"
 }
