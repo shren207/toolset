@@ -1,6 +1,6 @@
 {
   "name": "@greenhead/react",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "sideEffects": false,
   "main": "./dist/index.js",
   "module": "./esm/index.mjs",
