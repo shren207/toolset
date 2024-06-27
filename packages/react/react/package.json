@@ -1,6 +1,6 @@
 {
   "name": "@greenhead/react",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "sideEffects": false,
   "exports": {
     ".": {
@@ -60,5 +60,5 @@
     "react": "^16.0.0 || ^17.0.0 || ^18",
     "react-dom": "^16.12.0 || ^17.0.0 || ^18"
   },
-  "gitHead": "980f99b2aacd391601779d16f990afe4ec018909"
+  "gitHead": "c259b8c7137097e25c9d82c3582cf7b45723d6f1"
 }
