@@ -1,11 +1,11 @@
 {
   "name": "@greenhead/common",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "gitHead": "ab9a44bc1f94766666eff60e1908e4b63775baf8"
+  "gitHead": "d782ae15d28e1bbe87306c3b7d520fd6212e51ba"
 }
